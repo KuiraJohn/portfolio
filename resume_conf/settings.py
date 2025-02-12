@@ -72,12 +72,6 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'resume_conf.wsgi.application'
 
-#resume_conf\settings.py
-#C:\Users\Kuira\Desktop\resume\resume_conf\settings.py
-
-
-
-
 # Database
 # https://docs.djangoproject.com/en/5.1/ref/settings/#databases
 
